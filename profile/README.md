@@ -4,6 +4,8 @@ GitHub organisation for Upmind Automation / [upmind.com](https://upmind.com).
 
 Here you'll find various open source tools, SDKs and other projects such as Upmind provision providers which are organised into repositories per provision category.
 
+If you're looking for documentation / guides on how to configure or use the Upmind app, head over to [docs.upmind.com](https://docs.upmind.com/).
+
 ## Provisioning
 
 ### Categories + Providers
