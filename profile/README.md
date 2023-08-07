@@ -6,6 +6,10 @@ Here you'll find various open source tools, SDKs and other projects such as Upmi
 
 If you're looking for documentation / guides on how to configure or use the Upmind app, head over to [docs.upmind.com](https://docs.upmind.com/).
 
+## Webhooks
+
+- [Webhook Endpoint](https://github.com/upmind-automation/webhook-endpoint)
+
 ## Provisioning
 
 ### Categories + Providers
