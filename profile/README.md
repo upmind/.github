@@ -8,7 +8,7 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 
 ## Webhooks
 
-- [Webhook Endpoint](https://github.com/upmind-automation/webhook-endpoint)
+- [PHP Webhook Endpoint](https://github.com/upmind-automation/webhook-endpoint)
 
 ## Provisioning
 
