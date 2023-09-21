@@ -20,6 +20,7 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 - [Software Licenses](https://github.com/upmind-automation/provision-provider-software-licenses#readme)
 - [Website Builders](https://github.com/upmind-automation/provision-provider-website-builders#readme)
 - [Misc Auto-Login/SSO](https://github.com/upmind-automation/provision-provider-auto-login#readme)
+- [SEO Services](https://github.com/upmind-automation/provision-provider-seo#readme)
 - SSL Certificates (coming soon)
 - DNS (coming soon)
 - Email / Office Tools (coming soon)
