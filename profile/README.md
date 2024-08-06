@@ -8,7 +8,7 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 
 ## SDK
 
-- [PHP SDK (Beta)](https://github.com/upmind-automation/sdk-php)
+- [PHP SDK](https://github.com/upmind-automation/sdk-php)
 
 ## Webhooks
 
