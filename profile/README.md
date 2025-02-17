@@ -41,7 +41,7 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 - [DomainNameApi](https://github.com/upmind-automation/domainnameapi-sdk-php)
 - [20i](https://github.com/upmind-automation/20i-php-sdk)
 
-#### Other
+### Other
 
 - [Fix WHMCS Invalid UTF8 Data](https://gist.github.com/uphlewis/672a7598c25049556d6e919608a35d38)
 
