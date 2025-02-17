@@ -41,8 +41,10 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 - [DomainNameApi](https://github.com/upmind-automation/domainnameapi-sdk-php)
 - [20i](https://github.com/upmind-automation/20i-php-sdk)
 
-### Other
+## Other
 
 - [Fix WHMCS Invalid UTF8 Data](https://gist.github.com/uphlewis/672a7598c25049556d6e919608a35d38)
+
+---
 
 [Upmind](https://upmind.com/start) is a SaaS ecommerce, billing and automation solution perfect for web hosts + resellers. Get started today; signup is instant, completely free, with no credit card required.
