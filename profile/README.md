@@ -8,38 +8,38 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 
 ## SDK
 
-- [PHP SDK](https://github.com/upmind-automation/sdk-php)
+- [PHP SDK](https://github.com/upmind/sdk-php)
 
 ## Webhooks
 
-- [PHP Webhook Endpoint](https://github.com/upmind-automation/webhook-endpoint)
+- [PHP Webhook Endpoint](https://github.com/upmind/webhook-endpoint)
 
 ## Provisioning
 
 ### Categories + Providers
 
-- [Shared Web Hosting](https://github.com/upmind-automation/provision-provider-shared-hosting#readme)
-- [Domain Names](https://github.com/upmind-automation/provision-provider-domain-names#readme)
-- [Servers/VPS](https://github.com/upmind-automation/provision-provider-servers#readme)
-- [Software Licenses](https://github.com/upmind-automation/provision-provider-software-licenses#readme)
-- [Website Builders](https://github.com/upmind-automation/provision-provider-website-builders#readme)
-- [Misc Auto-Login/SSO](https://github.com/upmind-automation/provision-provider-auto-login#readme)
-- [SEO Services](https://github.com/upmind-automation/provision-provider-seo#readme)
-- [Email / Office Tools](https://github.com/upmind-automation/provision-provider-office-tools#readme)
+- [Shared Web Hosting](https://github.com/upmind/provision-provider-shared-hosting#readme)
+- [Domain Names](https://github.com/upmind/provision-provider-domain-names#readme)
+- [Servers/VPS](https://github.com/upmind/provision-provider-servers#readme)
+- [Software Licenses](https://github.com/upmind/provision-provider-software-licenses#readme)
+- [Website Builders](https://github.com/upmind/provision-provider-website-builders#readme)
+- [Misc Auto-Login/SSO](https://github.com/upmind/provision-provider-auto-login#readme)
+- [SEO Services](https://github.com/upmind/provision-provider-seo#readme)
+- [Email / Office Tools](https://github.com/upmind/provision-provider-office-tools#readme)
 - SSL Certificates (coming soon)
 - DNS (coming soon)
 
 ### Tools / Libraries
 
-- [Provision Base](https://github.com/upmind-automation/provision-provider-base#readme)
-- [Provision Workbench](https://github.com/upmind-automation/provision-workbench#readme)
+- [Provision Base](https://github.com/upmind/provision-provider-base#readme)
+- [Provision Workbench](https://github.com/upmind/provision-workbench#readme)
 
 ### SDKs
 
-- [Enhance](https://github.com/upmind-automation/enhance-sdk-php)
-- [Linode](https://github.com/upmind-automation/linode-api-php)
-- [DomainNameApi](https://github.com/upmind-automation/domainnameapi-sdk-php)
-- [20i](https://github.com/upmind-automation/20i-php-sdk)
+- [Enhance](https://github.com/upmind/enhance-sdk-php)
+- [Linode](https://github.com/upmind/linode-api-php)
+- [DomainNameApi](https://github.com/upmind/domainnameapi-sdk-php)
+- [20i](https://github.com/upmind/20i-php-sdk)
 
 ## Other
 
