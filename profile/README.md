@@ -26,6 +26,7 @@ If you're looking for documentation / guides on how to configure or use the Upmi
 - [Misc Auto-Login/SSO](https://github.com/upmind/provision-provider-auto-login#readme)
 - [SEO Services](https://github.com/upmind/provision-provider-seo#readme)
 - [Email / Office Tools](https://github.com/upmind/provision-provider-office-tools#readme)
+- [Generic](https://github.com/upmind/provision-provider-generic#readme)
 - SSL Certificates (coming soon)
 - DNS (coming soon)
 
